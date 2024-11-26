@@ -1,0 +1,114 @@
+{
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué es Python?",
+      "opciones": {
+        "a": "Un sistema operativo",
+        "b": "Un lenguaje de programación interpretado, de alto nivel y de propósito general",
+        "c": "Un editor de texto",
+        "d": "Un hardware para computadoras"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Cómo se define una función en Python?",
+      "opciones": {
+        "a": "Se define utilizando la palabra clave 'function'",
+        "b": "Se define utilizando la palabra clave 'func'",
+        "c": "Se define utilizando la palabra clave 'def', seguida del nombre de la función y paréntesis",
+        "d": "Se define utilizando la palabra clave 'lambda'"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Qué es un diccionario en Python?",
+      "opciones": {
+        "a": "Una lista ordenada de elementos",
+        "b": "Una colección desordenada de pares clave-valor",
+        "c": "Un tipo de variable de tipo cadena",
+        "d": "Un archivo para almacenar datos"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 4,
+      "pregunta": "¿Cómo se declara una variable en Python?",
+      "opciones": {
+        "a": "Se declara usando la palabra clave 'var'",
+        "b": "Se declara usando la palabra clave 'let'",
+        "c": "Se declara asignando un valor a un nombre de variable",
+        "d": "Se declara con la palabra clave 'define'"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 5,
+      "pregunta": "¿Qué tipo de datos es 'True' en Python?",
+      "opciones": {
+        "a": "String",
+        "b": "Entero",
+        "c": "Booleano",
+        "d": "Flotante"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 6,
+      "pregunta": "¿Cómo se importan módulos en Python?",
+      "opciones": {
+        "a": "Usando 'importar'",
+        "b": "Usando 'import'",
+        "c": "Usando 'include'",
+        "d": "Usando 'require'"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Qué es una lista en Python?",
+      "opciones": {
+        "a": "Una colección ordenada y mutable de elementos",
+        "b": "Una colección desordenada de elementos",
+        "c": "Un tipo de variable inmutable",
+        "d": "Un tipo de diccionario"
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 8,
+      "pregunta": "¿Qué hace la función 'len()' en Python?",
+      "opciones": {
+        "a": "Devuelve el número de palabras en una cadena",
+        "b": "Devuelve el número de elementos de una lista o cadena",
+        "c": "Devuelve la longitud de un archivo",
+        "d": "Devuelve el valor booleano de un número"
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "pregunta": "¿Qué es un bucle for en Python?",
+      "opciones": {
+        "a": "Un bucle que se repite un número fijo de veces",
+        "b": "Un bucle que se repite mientras una condición sea verdadera",
+        "c": "Un bucle que se usa para iterar sobre una secuencia",
+        "d": "Un bucle que se ejecuta una sola vez"
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 10,
+      "pregunta": "¿Cómo se maneja un error en Python?",
+      "opciones": {
+        "a": "Con un bloque 'catch' y 'finally'",
+        "b": "Con un bloque 'try' y 'catch'",
+        "c": "Con un bloque 'try' y 'except'",
+        "d": "Con un bloque 'if' y 'else'"
+      },
+      "respuesta_correcta": "c"
+    }
+  ]
+}
